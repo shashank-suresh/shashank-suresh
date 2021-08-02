@@ -1,16 +1,16 @@
 ### Hi there 👋
+Welcome to my GitHub profile page! I'm currently learning CSE at VIT Vellore, and am interested in ML and Web Dev.
 
-<!--
-**shashank-suresh/shashank-suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shashank-suresh&count_private=true&theme=merko&showicons=true)]()
 
-Here are some ideas to get you started:
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-suresh&langs_count=5&theme=merko)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+If you'd like to know more about me, you can find me on any of the following platforms:
+[Instagram](https://www.instagram.com/shashanksuresh8/),
+[LinkedIn](https://www.linkedin.com/in/shashanksuresh3/),
+[Twitter](https://twitter.com/sushi2bluebird)
+
+
+Feel free to contact me with any queries at shashanksuresh3@gmail.com
