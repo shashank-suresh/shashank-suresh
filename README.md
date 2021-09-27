@@ -11,6 +11,3 @@ If you'd like to know more about me, you can find me on any of the following pla
 [Instagram](https://www.instagram.com/shashanksuresh8/),
 [LinkedIn](https://www.linkedin.com/in/shashanksuresh3/),
 [Twitter](https://twitter.com/sushi2bluebird)
-
-
-Feel free to contact me with any queries at shashanksuresh3@gmail.com
