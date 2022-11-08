@@ -7,5 +7,5 @@ Welcome to my GitHub profile page! I'm currently learning CSE at VIT Vellore, an
 
 
 
-If you'd like to know more about me, you can find me on my LinkedIn
+If you'd like to know more about me, you can find me on my 
 [LinkedIn](https://www.linkedin.com/in/shashanksuresh3/)
