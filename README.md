@@ -1,6 +1,6 @@
 # Hi, I'm Shashank Suresh 👋
 
-I'm a **C++ Developer** and **AI/ML Engineer**. I build high-performance systems and enjoy working close to the metal — from low-latency networking and security hardening to real-time data pipelines. I'm also actively growing my open source presence.
+I'm a **C++ Developer** and **AI/ML Engineer**. I build high-performance systems and enjoy working close to the metal. I'm also actively growing my open source presence.
 
 ---
 
@@ -16,9 +16,6 @@ I'm a **C++ Developer** and **AI/ML Engineer**. I build high-performance systems
 ---
 
 ## 🚀 Projects
-
-**[Churn Prediction Model](https://github.com/shashank-suresh/churn-prediction)**
-End-to-end pipeline on a 7K-record dataset — feature engineering, EDA, model training and evaluation. Key drivers identified: contract type, monthly charges.
 
 *More coming soon — building in public.*
 
@@ -41,9 +38,7 @@ I'm actively working on growing my open source contributions, starting with C++ 
 
 ## 📫 Let's Connect
 
-- 📧 shashanksuresh3@gmail.com
 - 💼 [linkedin.com/in/shashanksuresh3](https://linkedin.com/in/shashanksuresh3)
-- 🐙 [github.com/shashank-suresh](https://github.com/shashank-suresh)
 
 ---
 
